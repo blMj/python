@@ -1,0 +1,7 @@
+some important modules in python buil8t-in modules
+calendar,random,enum,html,math,runpy
+
+if you want to download external modules
+then you have to type in your terminal
+pip install and than module name
+and press enter

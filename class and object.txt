@@ -1,0 +1,7 @@
+object oriented programming
+classes  = templates
+ik templates banane ke baad vahi sabpe apply kardena
+object = instance of the class
+
+object oriented use DRY concept 
+do not repeat yourself

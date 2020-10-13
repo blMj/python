@@ -1,0 +1,7 @@
+if __name__ == "__main__": is used to ignore all the thing 
+in (if __name__ == "__main__":)
+
+
+
+
+print(f"aand the name is {__name__}"  ) - is  used to show the name if file or other
