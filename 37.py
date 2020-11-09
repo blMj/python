@@ -13,7 +13,7 @@ class Employee:
     def email(self):
         if self.fname==None or self.lname == None:
             return "Email is not set. Please set it using setter"
-        return f"{self.fname}.{self.lname}@codewithharry.com"
+        return f"{self.fname}.{self.lname}@abc.com"
 
     @email.setter
     def email(self, string):
